@@ -3,8 +3,8 @@ Currently, the project can only be run locally as hosting is expensive
 
 # Instructions
 
-1. After cloning the directory run the following command in the terminal in the directory folder `npm install`
-2. Next cd into the front-end folder and run the following command
+1. After cloning the directory cd into the front-end folder and run the following commands
+2. `npm install`
 3. `npm start`
 4. Next we need to create a virtual environment to run the project locally
 5. In a new terminal window cd into the back-end folder and run the following commands
