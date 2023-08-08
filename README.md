@@ -13,3 +13,6 @@ Currently, the project can only be run locally as hosting is expensive
 8. `pip install -r requirements.txt`
 9. `python wsgi.py`
 10. In the terminal you will be provided with a local hostname, visit this and you will have full access to the app
+
+
+<img src="Screenshots/Screenshot (162).png" />
